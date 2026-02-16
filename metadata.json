@@ -1,0 +1,7 @@
+{
+  "name": "Sistem Inventaris UMKM Pintar",
+  "description": "Aplikasi manajemen stok modern untuk UMKM dengan fitur analisis AI, pencatatan transaksi otomatis, dan visualisasi data stok secara real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
